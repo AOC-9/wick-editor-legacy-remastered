@@ -507,9 +507,9 @@ body {
 .frame-extender-handle-right:hover {
     float: right;
     background: rgba(249,221,0,0.34);
-    border-right: 2px solid #F9DE00;
-    border-top: 2px solid #F9DE00;
-    border-bottom: 2px solid #F9DE00;
+    border-right: 2px solid #b0fff0;
+    border-top: 2px solid #b0fff0;
+    border-bottom: 2px solid #b0fff0;
     box-sizing: border-box;
     border-top-right-radius: 0.8;
     border-bottom-right-radius: 0.8;
@@ -1013,7 +1013,7 @@ body {
     background-position: left;
 }
 .tween:hover {
-    box-shadow: inset 1px 1px 2px yellow;
+    box-shadow: inset 1px 1px 2px #18f76b;
 }
 
 .hover-highlight-overlay {
