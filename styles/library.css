@@ -23,7 +23,7 @@
 	background-color: white;
 	height: calc(100% - 60px);
 	overflow-y: auto;
-	background-color: #CFCFCF;
+	background-color: #9c9999;
     box-sizing:border-box;
 }
 
@@ -61,7 +61,7 @@
 #treeOptionsContainer {
     position: absolute;
     height: 20px;
-    background-color: #CFCFCF;
+    background-color: #3d3d3d;
     width: 100%;
     bottom: 0px;
     border-top: #A2A2A2 1px solid;
@@ -106,7 +106,7 @@ span.fancytree-title:active {
     height: 20px; 
     width: 20px;
     float: right; 
-    background: #CFCFCF no-repeat 1px 0px;
+    background: #cfcfcf00 no-repeat 1px 0px;
     background-size: 20px 20px;
     border-radius: 2px;
 }
