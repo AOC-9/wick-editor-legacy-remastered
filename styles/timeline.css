@@ -287,7 +287,7 @@ body {
 .active-layer {
     background-color: #00d18f;
     border-style: solid;
-    border-color: white;
+    border-color: #ffffff00;
     border-width: 1px;
 /*    box-shadow: 0 0 10px 3px rgba(255,255,255,0.18);*/
 
